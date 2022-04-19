@@ -34,6 +34,5 @@
     - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
       - アカウントをGitHubで登録
     - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
-    - [UNITYの準備](https://am1.jp/unity/getting-started/)
     - この1年でUnity関連の良質な記事が増えたのでよいページを探してみてください！
 
