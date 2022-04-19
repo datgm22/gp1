@@ -1,4 +1,4 @@
-# 2021年度生 ゲームプログラミング入門1
+# 2022年度生 ゲームプログラミング入門1
 - [シラバス](https://docs.google.com/spreadsheets/d/1lwYMajgOkPfKQsFlrnlZgSKx5OodZL3X/)
 - [質問]()
 - [Slack](https://datgm22.slack.com)
