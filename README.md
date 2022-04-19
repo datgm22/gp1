@@ -27,7 +27,7 @@
   - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 - ガイダンス
   - [プログラミングを学ぶ前に](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
-  - [講義メモ](https://docs.google.com/document/d/1PzCptqOYNbmJr5D2VCR3ppziEdcZzHMJEJWUKX4GTGA/)
+  - [講義メモ](https://docs.google.com/document/d/1u5hTFDD96oNmaKXQHED5knrz0io9p51hMSqNAuIhyR8/)
     - Visual C# / Unity
   - 独習
     - [Unity Learning Materials](https://learning.unity3d.jp/)
