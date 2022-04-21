@@ -23,6 +23,8 @@
 
 
 # 1回目
+- [使用NGのPC](https://docs.google.com/spreadsheets/d/1-PDzfdsGWkt1O06c1C_27_GPiXijEbbRYSGz0RmlJOI/)
+  - 赤いPCの人は、19番以降の席へ移動してください
 - この講義のURLは https://github.com/datgm22/gp1
   - [GmailアカウントとGitHubアカウントを作成していない場合はこちら](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
 - ガイダンス
