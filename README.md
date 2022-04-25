@@ -22,7 +22,38 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
 
-# 1回目
+## 2回目(4/28)
+
+### 予定
+- [手順動画](https://youtu.be/lTNRVO3PPhE)
+- [書く教科書のオリジナルリポジトリー](https://github.com/tanakaedu/csharp-manual)
+
+### GW中の自習
+- e-typing
+- [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+  - アカウントをGitHubで登録
+- [Unity Learning Materials](https://learning.unity3d.jp/)
+- [ドットインストール Unity入門](https://dotinstall.com/search?q=unity&f=topbar)
+
+
+### 演習
+講義で自分で作成した教科書を参考にして、以下のプログラムを作成してください。
+
+- プロジェクト名を ensyu0428 とする
+- ボタンを１つ配置して、ボタンのテキストを`自己紹介`にする
+- 自己紹介 ボタンを押したら、自分の名前を`MessageBox`で表示する
+- 以上できたら、実行画面のスクリーンショットを撮って、Slackの自分の活動チャンネル(#times_名前)にCtrl+Vで貼り付ける
+  - 作成したプログラムを実行して、ボタンを押して、メッセージボックスを表示しておく
+  - ウィンドウズキー+Shift+Sキーを押したら、スクリーンショットを取りたい範囲をマウスでドラッグで選択
+  - [Slack](https://datgm21.slack.com)を開く
+  - チャンネルを追加する を押して、`times_名前` を入力して作成する。説明とプライベート設定は不要
+  - 作成した自分用のチャンネルを選択
+  - コメントのところをクリックして選択したら、Ctrl+Vキーでスクリーンショットを貼り付ける
+  - 右下の送信ボタンでメッセージを送信する
+
+
+## 1回目
 - [使用NGのPC](https://docs.google.com/spreadsheets/d/1-PDzfdsGWkt1O06c1C_27_GPiXijEbbRYSGz0RmlJOI/)
   - 赤いPCの人は、19番以降の席へ移動してください
 - この講義のURLは https://github.com/datgm22/gp1
