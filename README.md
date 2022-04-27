@@ -38,20 +38,10 @@
 
 以上で、自分のGitHub上に書く教科書がコピーされました。必要な項目を自分で書き加えていき、完成させてください。
 
-
-
-### GW中の自習
-- e-typing
-- [UNITYの準備](https://am1.jp/unity/getting-started/)
-- [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
-  - アカウントをGitHubで登録
-- [Unity Learning Materials](https://learning.unity3d.jp/)
-- [ドットインストール Unity入門](https://dotinstall.com/search?q=unity&f=topbar)
-
-
 ### 演習
 講義で自分で作成した教科書を参考にして、以下のプログラムを作成してください。
 
+- [Slackに参加]()
 - プロジェクト名を ensyu0428 とする
 - ボタンを１つ配置して、ボタンのテキストを`自己紹介`にする
 - 自己紹介 ボタンを押したら、自分の名前を`MessageBox`で表示する
@@ -63,6 +53,16 @@
   - 作成した自分用のチャンネルを選択
   - コメントのところをクリックして選択したら、Ctrl+Vキーでスクリーンショットを貼り付ける
   - 右下の送信ボタンでメッセージを送信する
+
+
+
+### GW中の自習
+- e-typing
+- [UNITYの準備](https://am1.jp/unity/getting-started/)
+- [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
+  - アカウントをGitHubで登録
+- [Unity Learning Materials](https://learning.unity3d.jp/)
+- [ドットインストール Unity入門](https://dotinstall.com/search?q=unity&f=topbar)
 
 
 ## 1回目
