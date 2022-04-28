@@ -41,7 +41,7 @@
 ### 演習
 講義で自分で作成した教科書を参考にして、以下のプログラムを作成してください。
 
-- [Slackに参加]()
+- [Slackに参加](https://join.slack.com/t/datgm22/shared_invite/zt-17esv8n6a-TICdE~7YwN~rJN76QM_GpQ)
 - プロジェクト名を ensyu0428 とする
 - ボタンを１つ配置して、ボタンのテキストを`自己紹介`にする
 - 自己紹介 ボタンを押したら、自分の名前を`MessageBox`で表示する
