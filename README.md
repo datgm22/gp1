@@ -1,6 +1,6 @@
 # 2022年度生 ゲームプログラミング入門1
 - [シラバス](https://docs.google.com/spreadsheets/d/1lwYMajgOkPfKQsFlrnlZgSKx5OodZL3X/)
-- [質問](https://meet.google.com/xfv-xthy-vxq)
+- [質問](https://meet.google.com/ips-myqc-jty)
 - [Slack](https://datgm22.slack.com)
 - [日程](https://github.com/datgm22/gp1/blob/main/thus.md)
 - その他
