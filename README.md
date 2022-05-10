@@ -21,10 +21,38 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 3回目(5/12)
+
+## 準備
+- GitHubを開く > Sign in > csharp-manual を開く
+- 03.mdをクリックして開く
+
+## 復習
+- Visual C#の新規プロジェクトを`fukuv0512`という名前で作成する
+- ボタンを3つ置く
+- ボタンに表示されている文字を、1つ目のボタンを`氏名`, 2つ目のボタンを`PCの番号`, 3つ目のボタンを`自宅のPC環境`に変更する
+- 1つ目のボタンを押したら、自分の氏名を表示
+- 2つ目のボタンを押したら、モニターのシールに`A601-00`というように書かれている文字列を表示
+- 3つ目のボタンを押したら、自宅にWindowsPCがあれば`Windows`、macなら`mac`、両方あれば`両方`、持っていないなら`なし`と表示
+
+以上実装が完了したら実行して、それぞれのボタンを押してメッセージが表示されている画面をスクリーンショットで撮影して、Slackの自分のチャンネルに貼り付けよ。
+
+スクリーンショットの撮り方
+
+- Windowsキー + Shiftキー + Sキー を押す
+- コピーしたい画面の範囲をドラッグして選択
+- Slackの自分のチャンネルのコメント欄を選んで、Ctrl + Vキーで貼り付け
+
+## 内容
+- `v0512`という名前で新しいプロジェクトを作成
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- [手順動画 Visual C#](https://youtu.be/BVRWsai9NOw)
+- [プロジェクトの更新をGitHubに反映させる](https://github.com/datgm21/gp1/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E6%9B%B4%E6%96%B0%E3%82%92GitHub%E3%81%AB%E5%8F%8D%E6%98%A0%E3%81%95%E3%81%9B%E3%82%8B)
+
 
 ## 2回目(4/28)
 
-### 予定
+### 内容
 - [手順動画](https://youtu.be/lTNRVO3PPhE)
 - [書く教科書のオリジナルリポジトリー](https://github.com/tanakaedu/csharp-manual) を右クリックして、新しいタブで開く
 - 右上の Fork ボタンをクリック
