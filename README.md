@@ -2,6 +2,7 @@
 - [シラバス](https://docs.google.com/spreadsheets/d/1lwYMajgOkPfKQsFlrnlZgSKx5OodZL3X/)
 - [質問](https://meet.google.com/ips-myqc-jty)
 - [Slack](https://datgm22.slack.com)
+  - [これを開いて登録](https://join.slack.com/t/datgm22/shared_invite/zt-17esv8n6a-TICdE~7YwN~rJN76QM_GpQ)
 - [日程](https://github.com/datgm22/gp1/blob/main/thus.md)
 - その他
   - [C#書く教科書　記入例](https://github.com/datgm22/csharp-manual)
