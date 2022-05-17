@@ -21,13 +21,25 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 4回目(5/19)
+
+### 話題
+- [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
+
+### 復習
+
+
+### 内容
+- [GP1-05:VisualC# データの型、計算](https://youtu.be/Gum71fCVsb4)
+
+
 ## 3回目(5/12)
 
-## 準備
+### 準備
 - GitHubを開く > Sign in > csharp-manual を開く
 - 03.mdをクリックして開く
 
-## 復習
+### 復習
 - Visual C#の新規プロジェクトを`fukuv0512`という名前で作成する
 - ボタンを3つ置く
 - ボタンに表示されている文字を、1つ目のボタンを`氏名`, 2つ目のボタンを`PCの番号`, 3つ目のボタンを`自宅のPC環境`に変更する
@@ -43,10 +55,7 @@
 - コピーしたい画面の範囲をドラッグして選択
 - Slackの自分のチャンネルのコメント欄を選んで、Ctrl + Vキーで貼り付け
 
-
-
-
-## 内容
+### 内容
 - `v0512`という名前で新しいプロジェクトを作成
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - [手順動画 Visual C#](https://youtu.be/BVRWsai9NOw)
