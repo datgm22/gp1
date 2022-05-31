@@ -21,6 +21,21 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 5回目(6/2)
+
+### 話題
+- [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
+
+### 復習問題
+
+### 内容
+- [GP1-06:VisualC# コントロール(Control)～表現を増やす～](https://youtu.be/MAie5pHmFyg)
+
+### 時間があれば
+- [GP1-06:Unity 移動](https://youtu.be/hnsH9L5ZBD8)
+  - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
+
+
 ## 4回目(5/19)
 
 ### 話題
