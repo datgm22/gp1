@@ -21,6 +21,16 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 6回目(6/9)
+
+### 復習問題
+
+### 予定
+- 07.md 変数～動的なプログラム～ からをUnityで
+  - [GP1-07 変数](https://youtu.be/z8KlJWFuskc)
+  - [GP1-07 変数(2)](https://youtu.be/smKALzN0Gus)
+
+
 ## 5回目(6/2)
 
 ### 話題
