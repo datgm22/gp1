@@ -23,6 +23,13 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 7回目(6/16)
+
+### 予定
+- [変数(2)](https://youtu.be/smKALzN0Gus?t=1810)の続きから
+
+
+
 ## 6回目(6/9)
 
 ### 復習問題
@@ -46,7 +53,7 @@
 - 方向ごとにラベルの表示を変更する
 - ラベルをクリックしたら、名前が表示された後に、タイマーを停止させる
 
-### 予定
+### 内容
 - 07.md 変数～動的なプログラム～ からをUnityで
   - [GP1-07 変数](https://youtu.be/z8KlJWFuskc)
   - [GP1-07 変数(2)](https://youtu.be/smKALzN0Gus)
