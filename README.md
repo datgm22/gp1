@@ -25,9 +25,14 @@
 
 ## 7回目(6/16)
 
-### 予定
-- [変数(2)](https://youtu.be/smKALzN0Gus?t=1810)の続きから
+### 復習問題
 
+### 予定
+- Unityの`u0609`を開いて前回の振り返り
+- 復習問題
+- [変数(2)](https://youtu.be/smKALzN0Gus?t=1810)の続きから
+- [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk)
+  - fukuvHensu からそのまま継続
 
 
 ## 6回目(6/9)
