@@ -21,6 +21,15 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 8回目(6/23)
+
+### 復習問題
+
+### 予定
+- [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk?t=1308)の続きから
+  - fukuvHensu を開く
+
+
 ## 7回目(6/16)
 
 ### 復習問題
@@ -54,7 +63,7 @@
 - その他、思いついたことを実装
 - できたらコミットしてPushする
 
-### 予定
+### 内容
 - Unityの`u0609`を開いて前回の振り返り
 - 復習問題
 - [変数(2)](https://youtu.be/smKALzN0Gus?t=1810)の続きから
