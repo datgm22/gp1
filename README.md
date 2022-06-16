@@ -1,5 +1,3 @@
-[datgm22 slack](https://join.slack.com/t/datgm22/shared_invite/zt-1anb68psh-41gXvOCf2h3LUKWWGJ4ugg)
-
 # 2022年度生 ゲームプログラミング入門1
 - [シラバス](https://docs.google.com/spreadsheets/d/1lwYMajgOkPfKQsFlrnlZgSKx5OodZL3X/)
 - [質問](https://meet.google.com/ips-myqc-jty)
