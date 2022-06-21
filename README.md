@@ -28,6 +28,13 @@
 ### 予定
 - [GP1-08:if文 / switch文](https://youtu.be/fDBRR3xg_Tk?t=1308)の続きから
   - fukuvHensu を開く
+- [GP1-10:VisualC# マウス入力](https://youtu.be/bUaPhQxuO8M)
+- [GP1-11:VisualC# if文その2](https://youtu.be/1ZgvaXR5Q00)
+- [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
+
+## 時間があれば
+- [GP1-04:Unity ボタン](https://youtu.be/aP56UZ953Hg)
+
 
 
 ## 7回目(6/16)
