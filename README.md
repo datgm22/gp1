@@ -21,6 +21,13 @@
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 
+## 9回目(6/30)
+
+### 復習問題
+
+### 予定
+- [if文その2](https://youtu.be/1ZgvaXR5Q00?t=578)
+
 ## 8回目(6/23)
 
 ### 復習問題
