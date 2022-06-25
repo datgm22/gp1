@@ -27,6 +27,10 @@
 
 ### 予定
 - [if文その2](https://youtu.be/1ZgvaXR5Q00?t=578)
+- [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
+- [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
+- [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
+- [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
 
 ## 8回目(6/23)
 
