@@ -25,7 +25,7 @@
 
 ### 予定
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://youtu.be/N8KQp9-whcw?t=583)
-  - [前回のプロジェクトv0630](https://github.com/datgm22/v0630)
+  - [前回のプロジェクトv0630](https://github.com/datgm22/v0630) から再開
 
 ## 9回目(6/30)
 
