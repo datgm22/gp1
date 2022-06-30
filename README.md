@@ -46,6 +46,7 @@
 
 
 ### 予定
+- v0630ができていない人は、[こちら](https://github.com/datgm22/v0630/blob/main/v0630/Form1.cs)を参照して完成させる
 - [if文その2](https://youtu.be/1ZgvaXR5Q00?t=578)
 - [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
