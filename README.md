@@ -24,7 +24,6 @@
 ## 9回目(6/30)
 
 ### 復習問題
-## 9回目 復習問題
 - Visual C#の新規プロジェクトを作成して、名前を`v0630`にする
 - [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
 - フォームに以下を配置
