@@ -20,12 +20,24 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [Unityでのモノの動かし方](https://docs.google.com/document/d/1Su0trfKxB2iLfGdxt1s7pJr76NFwqwdw-pbDhaCrtvE/)
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
+- [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
+- [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
 ## 10回目(7/7)
 
+### 前回の講義のプロジェクトがない、あるいは、未完成の場合は以下の手順で用意しておく
+1. [v0630](https://github.com/datgm22/v0630) を右クリックして、新しいタブで開く
+1. Codeボタンをクリックして、Download ZIPを選択
+1. ダウンロードが完了したら、ダウンロードした`v0630-main.zip`を、ドキュメント > 自分の名前のフォルダー内の適当な場所に移動
+1. コピーした`v0630-main.zip`を右クリックして、7-Zip > "v0630-main"に展開を選択
+1. GitHub Desktopを起動して、いつもの手順で展開した`v0630-main`フォルダーをPublishする
+1. `v0630-main`フォルダー内の`v0630.sln`をVisual Studioで開く
+
+
 ### 予定
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://youtu.be/N8KQp9-whcw?t=583)
-  - [前回のプロジェクトv0630](https://github.com/datgm22/v0630) から再開
+  - 前回のプロジェクト`v0630`から再開
+  
 
 ## 9回目(6/30)
 
