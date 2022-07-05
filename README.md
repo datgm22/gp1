@@ -33,6 +33,7 @@
 1. GitHub Desktopを起動して、いつもの手順で展開した`v0630-main`フォルダーをPublishする
 1. `v0630-main`フォルダー内の`v0630.sln`をVisual Studioで開く
 
+### 復習問題
 
 ### 予定
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://youtu.be/N8KQp9-whcw?t=583)
