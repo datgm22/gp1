@@ -23,6 +23,15 @@
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
+## 11回目(7/14)
+
+### 予定
+- [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
+- [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
+- [よけとるVS22の作成](https://youtu.be/E0whq82tSBM?t=550)
+  - 状態遷移の作成から
+
+
 ## 10回目(7/7)
 
 ### 前回の講義のプロジェクトがない、あるいは、未完成の場合は以下の手順で用意しておく
@@ -52,7 +61,7 @@
 - プログラムコードと一緒に、ボタンを押した時のスクリーンショットをSlackの自分のチャンネルに貼り付ける。ボタンは3つあるので、3枚貼り付ける
   - スクリーンショット：　ウィンドウズキー + Shift + S キーを押して、スクリーンショットを取りたい範囲をマウスでドラッグで選択して、Slackの自分のチャンネルでCtrl + Vキーで貼り付ける
 
-### 予定
+### 内容
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://youtu.be/N8KQp9-whcw?t=583)
   - 前回のプロジェクト`v0630`から再開
   
@@ -81,13 +90,11 @@
 - 以上できたらコミットしてPushする
 
 
-### 予定
+### 内容
 - v0630ができていない人は、[こちら](https://github.com/datgm22/v0630/blob/main/v0630/Form1.cs)を参照して完成させる
 - [if文その2](https://youtu.be/1ZgvaXR5Q00?t=578)
 - [GP1-12:VisualC# 乱数](https://youtu.be/l3oxBJuWzbE)
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://www.youtube.com/watch?v=N8KQp9-whcw)
-- [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
-- [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
 
 ## 8回目(6/23)
 
