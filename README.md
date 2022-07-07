@@ -34,6 +34,23 @@
 1. `v0630-main`フォルダー内の`v0630.sln`をVisual Studioで開く
 
 ### 復習問題
+- Visual C#の新規プロジェクトを作成して、名前を`v0707`にする
+- [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
+- フォームに以下を配置
+  - ボタン(Button)を3つ
+    - button1は`初期化`、button2は`合計`、button3は`平均`と表示
+- int型のdataという名前の配列3個をインスタンス配列として定義
+- 乱数を利用するためのクラス変数randを定義
+- button1をクリックしたら以下を行う
+  - data配列3つに0～10までの乱数をそれぞれ代入する
+  - MessageBox.Show()で、data配列の3つの値を表示。表示方法は自由だが、分かりやすく表示
+- button2をクリックしたら以下を行う
+  - data配列の3つの値の合計を求めて、MessageBox.Show()で表示
+- button3をクリックしたら以下を行う
+  - data配列の3つの値の平均を求めて、MessageBox.Show()で表示
+- 以上できたらコミットしてPushする
+- プログラムコードと一緒に、ボタンを押した時のスクリーンショットをSlackの自分のチャンネルに貼り付ける。ボタンは3つあるので、3枚貼り付ける
+  - スクリーンショット：　ウィンドウズキー + Shift + S キーを押して、スクリーンショットを取りたい範囲をマウスでドラッグで選択して、Slackの自分のチャンネルでCtrl + Vキーで貼り付ける
 
 ### 予定
 - [GP1-13:VisualC# 配列、繰り返し、コントロールをプログラムで追加](https://youtu.be/N8KQp9-whcw?t=583)
