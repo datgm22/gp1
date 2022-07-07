@@ -27,6 +27,7 @@
 
 ### 予定
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
+  - 新規にv0714を作成して作業
 - [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
 - [よけとるVS22の作成](https://youtu.be/E0whq82tSBM?t=550)
   - 状態遷移の作成から
