@@ -25,6 +25,10 @@
 
 ## 11回目(7/14)
 
+### 話題
+- [miku. プロシージャル界隈で話題のMarkovJuniorについての解説](https://zenn.dev/baroqueengine/articles/29c21d1da24ebb)
+
+
 ### 予定
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
   - 新規にv0714を作成して作業
