@@ -33,8 +33,12 @@
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
   - 新規にv0714を作成して作業
 - [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
+- [よけとる2022 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
 - [よけとるVS22の作成](https://youtu.be/E0whq82tSBM?t=550)
   - 状態遷移の作成から
+  - [GP1-16:VisualC# よけとる(2)キャラ出現](https://youtu.be/94GlDID6Nb8)
+  - [GP1-16:VisualC# よけとる(3)ラベルサイズ](https://youtu.be/Hh80DSvlsRM)
+
 
 
 ## 10回目(7/7)
