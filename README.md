@@ -38,6 +38,7 @@
   - 状態遷移の作成から
   - [GP1-16:VisualC# よけとる(2)キャラ出現](https://youtu.be/94GlDID6Nb8)
   - [GP1-16:VisualC# よけとる(3)ラベルサイズ](https://youtu.be/Hh80DSvlsRM)
+  - [GP1-16:VisualC# よけとる(4)キャラ移動](https://youtu.be/Ovlm6yYhxpE)
 
 ### よけとるvs22TODOリスト
 - [x] 状態遷移を完成させる
