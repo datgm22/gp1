@@ -23,13 +23,19 @@
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
+## 12回目(7/21)
+
+### 予定
+- [よけとる2022 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
+  - [GP1-16:VisualC# よけとる(4)キャラ移動の跳ね返りから](https://youtu.be/Ovlm6yYhxpE?t=234)
+
 ## 11回目(7/14)
 
 ### 話題
 - [miku. プロシージャル界隈で話題のMarkovJuniorについての解説](https://zenn.dev/baroqueengine/articles/29c21d1da24ebb)
 
 
-### 予定
+### 内容
 - [GP1-14:VisualC# continueとbreak](https://youtu.be/AM1odzCNZcY)
   - 新規にv0714を作成して作業
 - [GP1-15:VisualC# 定数](https://youtu.be/yMkni9YfS1M)
