@@ -52,6 +52,7 @@
 
 
 ### 予定
+- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
 - [よけとる2022 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(4)キャラ移動の跳ね返りから](https://youtu.be/Ovlm6yYhxpE?t=234)
   - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
