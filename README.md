@@ -22,7 +22,7 @@
 - [テキストファイルの利用](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
-
+- [北村愛実. Ｕｎｉｔｙの教科書 はじめてでも安心！ Ｕｎｉｔｙ ２０２２完全対応版](https://honto.jp/netstore/pd-book_31664182.html)
 
 ## 12回目(7/21)
 
