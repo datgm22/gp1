@@ -23,6 +23,7 @@
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
+
 ## 12回目(7/21)
 
 ### 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
@@ -57,6 +58,11 @@
   - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
 - [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
+
+## 13回目予定
+
+- Unity版よけとる2022 [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit?usp=sharing)の「キーが押されたことを確認するには」から
+
 
 ## 11回目(7/14)
 
