@@ -56,7 +56,6 @@
 - [よけとる2022 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(4)キャラ移動の跳ね返りから](https://youtu.be/Ovlm6yYhxpE?t=234)
   - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
-- [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 - [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
 
 
@@ -97,6 +96,7 @@
 
 ## 13回目予定
 
+- [C#でのファイルの読み書き](https://docs.google.com/document/d/1Ib6CJYLswOD1y0lAsdagWwtoD0b1Pap4nMtrpdflqV8/)
 - Unity版よけとる2022 [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/edit?usp=sharing)の「キーが押されたことを確認するには」から
 
 
