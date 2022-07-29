@@ -23,9 +23,10 @@
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 - [北村愛実. Ｕｎｉｔｙの教科書 はじめてでも安心！ Ｕｎｉｔｙ ２０２２完全対応版](https://honto.jp/netstore/pd-book_31664182.html)
-- ゲーム制作シリーズ
-  - [内藤時浩. ゲーム制作の現場](https://codeknowledge.livedoor.blog/archives/12980840.html)
+- 内藤時浩. プログラミング指南-ゲーム制作
+  - [内藤時浩. ゲーム制作の現場](https://codeknowledge.livedoor.blog/archives/12945552.html)
   - [内藤時浩. ゲーム制作のデバッグ](https://codeknowledge.livedoor.blog/archives/13051282.html)
+  - [内藤時浩. ゲーム制作のWBS分解](https://codeknowledge.livedoor.blog/archives/12980840.html)
   - [内藤時浩. ゲーム制作の工数設定](https://codeknowledge.livedoor.blog/archives/12988411.html)
   - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
