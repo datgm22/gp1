@@ -32,6 +32,29 @@
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
 
+## 13回目(9/1)
+
+### 話題
+- [CEDECチャンネルYouTube版](https://www.youtube.com/channel/UCmHaPXvwn9_4pMNAV6ewgoA)
+- 夏休み成果物
+  - [Haunted Animals In The Cemetery](https://am1tanaka.itch.io/hanimals) GDevelop
+  - [Shaking Hill](https://am1tanaka.itch.io/shaking-hill) Unity
+  - [The Nine Stone Tables](https://itch.io/jam/brackeys-8/rate/1678049) Unity
+
+### 予定
+- 夏休み課題の成果物のビルドと提出
+  - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
+  - [Clusterワールド](https://github.com/datgm22/design/blob/main/submit_cluster.md)
+  - [Unity作品](https://github.com/datgm22/design/blob/main/submit_unity.md)
+- 発表
+  - 一人5分程度(最大10分)
+  - ゲームやワールドを動かして、操作方法やルールを説明
+  - 元にした記事や書籍があれば紹介
+  - 自分で作成した部分がどこかを報告
+
+### 時間があまったら試遊と感想の投稿
+
+
 ## 12回目(7/21)
 
 ### 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
@@ -60,7 +83,7 @@
 - ゲームの概要、操作方法、遊び方をテキストファイルなどにまとめる
 
 
-### 予定
+### 内容
 - [よけとる2022 for VisualStudio 手順メモ](https://docs.google.com/document/d/1dgS_tro-KG1nSdXeGc6oPkVOiywjAcSSTHtlylUYn0g/)
   - [GP1-16:VisualC# よけとる(4)キャラ移動の跳ね返りから](https://youtu.be/Ovlm6yYhxpE?t=234)
   - [GP1-16:VisualC# よけとる(5)完成](https://youtu.be/ekr2tlHEPHo)
