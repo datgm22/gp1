@@ -33,6 +33,12 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 14回目(9/8)
+
+### 予定
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/) スペースキーでもゲームを始める
+- 個人制作の作品の問題点や課題について個別対応
+
 
 ## 13回目(9/1)
 
@@ -43,7 +49,7 @@
   - [Shaking Hill](https://am1tanaka.itch.io/shaking-hill) Unity
   - [The Nine Stone Tables](https://itch.io/jam/brackeys-8/rate/1678049) Unity
 
-### 予定
+### 内容
 - 夏休み課題の成果物のビルドと提出
   - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
   - [Clusterワールド](https://github.com/datgm22/design/blob/main/submit_cluster.md)
