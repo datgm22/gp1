@@ -12,6 +12,8 @@
 
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
+- [Unityのインストール](https://am1.jp/tutorials/unity/install/)
+  - 現在の学校のはUnity2021.3.4f1なので読み替える
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - [Paizaラーニング C#](https://paiza.jp/works/cs/primer)
 - [ドットインストール Unity入門](https://dotinstall.com/lessons/basic_unity_v2)
