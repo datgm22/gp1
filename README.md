@@ -38,6 +38,9 @@
 ### 予定
 - 個人制作の作品の問題点や課題について個別対応
 - 夏休み課題の最終版のプロジェクトを提出
+  - Visual C#の人は、GitHubに最新状態をPushすればOK
+  - Unityの人は、Googleドライブにアップしたファイルを削除してから、 [Unityプロジェクトの提出](https://docs.google.com/document/d/12QWPc6j8jO2LuwNXQ32qaLmNj2MfO-XFV2HW5_6PMDA/) に従って再度アップロードして共有URLを作成して報告
+    - URLの報告先は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
 
 
 ### Unity版よけとる作成資料
