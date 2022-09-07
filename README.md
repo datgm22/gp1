@@ -37,6 +37,7 @@
 
 ### 予定
 - 個人制作の作品について完成までの道筋を検討して、項目を出す
+- Unityの夏休み課題作品について、完成を目指してテコ入れ
 - 夏休み課題の最終版のプロジェクトが未提出であったり、更新があれば提出
   - Visual C#の人は、GitHubに最新状態をPushすればOK
   - Unityの人は、Googleドライブにアップしたファイルを削除してから、 [Unityプロジェクトの提出](https://docs.google.com/document/d/12QWPc6j8jO2LuwNXQ32qaLmNj2MfO-XFV2HW5_6PMDA/) に従って再度アップロードして共有URLを作成して報告
