@@ -37,6 +37,7 @@
 
 ### 予定
 - 個人制作の作品について完成までの道筋を検討して、項目を出す
+  - [メモ](https://docs.google.com/document/d/18DOQXTHytFgSOcwzIzyvpSOLc-pDc6UB7zMKBy1go6Y/)
 - Unityの夏休み課題作品について、完成を目指してテコ入れ
 - 夏休み課題の最終版のプロジェクトが未提出であったり、更新があれば提出
   - Visual C#の人は、GitHubに最新状態をPushすればOK
