@@ -34,9 +34,16 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
-## 14回目(9/8)
+## 15回目(9/15)
 
 ### 予定
+- 作品のブラッシュアップと公開
+- DATフェスタ作品の検討と相談
+
+
+## 14回目(9/8)
+
+### 内容
 - 個人制作の作品について完成までの道筋を検討して、項目を出す
   - [メモ](https://docs.google.com/document/d/18DOQXTHytFgSOcwzIzyvpSOLc-pDc6UB7zMKBy1go6Y/)
 - 夏休み課題の最終版のプロジェクトが未提出であったり、更新があれば提出
