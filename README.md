@@ -47,6 +47,7 @@
 ### 予定
 - 作品のブラッシュアップと公開
 - DATフェスタ作品の検討と相談
+  - [DATフェスタ方針案のメモ](https://docs.google.com/document/d/1Ix-sOvhNREDrasJshPtgymK0QmTh-vem-IyR4o_kcRs/)
 
 
 ## 14回目(9/8)
