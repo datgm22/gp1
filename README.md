@@ -34,6 +34,21 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 後期1回目(10/6)
+
+### 予定
+- よけとる2022作成
+
+### Unity版よけとる作成資料
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+
+
+---
+
 ## 15回目(9/15)
 
 ### 話題
@@ -44,7 +59,7 @@
   - 今後の予定：フルスクリーン時の外枠を作る、スクリーンショットなどを作成、バグ探し
 
 
-### 予定
+### 内容
 - 作品のブラッシュアップと公開
 - DATフェスタ作品の検討と相談
   - [DATフェスタ方針案のメモ](https://docs.google.com/document/d/1Ix-sOvhNREDrasJshPtgymK0QmTh-vem-IyR4o_kcRs/)
