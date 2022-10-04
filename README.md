@@ -36,6 +36,11 @@
 
 ## 後期1回目(10/6)
 
+### 話題
+- [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
+
+
+
 ### 予定
 - よけとる2022作成
 
