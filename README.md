@@ -45,7 +45,7 @@
 - よけとる2022作成
 
 ### Unity版よけとる作成資料
-- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022)
+- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
