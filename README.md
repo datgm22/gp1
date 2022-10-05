@@ -40,9 +40,12 @@
 - [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
 
 
-
 ### 予定
-- よけとる2022作成
+- 席移動
+- Clusterアップデート
+- Unityグループ よけとる2022作成
+- ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+
 
 ### Unity版よけとる作成資料
 - [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
