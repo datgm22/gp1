@@ -34,13 +34,32 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 後期2回目(10/13)
+
+### 予定
+- Clusterアップデート
+- Unityグループ よけとる2022作成
+- ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+
+
+### Unity版よけとる作成資料
+- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
+  - [雛形準備手順](https://docs.google.com/document/d/1eHzEidSWvceXCaB5KsXkkbKrAFykcImPOkrVJacBPFg/)
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+
+
+
 ## 後期1回目(10/6)
 
 ### 話題
 - [AI Programmer. 日本語で指示を出すだけでコードを自動で生成](https://aiprogrammer.hashlab.jp/)
 
 
-### 予定
+### 内容
 - 席移動
 - Clusterアップデート
 - Unityグループ よけとる2022作成
