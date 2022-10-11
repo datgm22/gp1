@@ -38,7 +38,7 @@
 
 ### 話題
 - [Cluster Conference 2022](https://cluster.mu/e/9e67f191-11cb-4f04-8d06-b3d06f5343ac) 10/20(木) 開場 19:30 ／ 開演 20:00 ／ 終了 21:30頃
-
+- [E869120. 150 分で学ぶ高校数学の基礎](https://speakerdeck.com/e869120/150-fen-dexue-bugao-xiao-shu-xue-noji-chu)
 
 ### 予定
 - Clusterアップデート
