@@ -42,9 +42,8 @@
 
 ### 予定
 - Clusterアップデート
-- Unityグループ よけとる2022作成
-- ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
-
+- Unityグループ よけとる2022作成 / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+- GDevelop ロープアクションの検討
 
 ### Unity版よけとる作成資料
 - [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
