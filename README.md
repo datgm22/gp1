@@ -34,13 +34,30 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 後期3回目(10/20)
+
+### 予定
+- Clusterアップデート
+- Unityグループ よけとる2022作成 03ゲームの実装　水曜の続き / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+- GDevelop ロープアクションの検討
+
+### Unity版よけとる作成資料
+- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+- [補足](https://docs.google.com/document/d/1eHzEidSWvceXCaB5KsXkkbKrAFykcImPOkrVJacBPFg/)
+
+
 ## 後期2回目(10/13)
 
 ### 話題
 - [Cluster Conference 2022](https://cluster.mu/e/9e67f191-11cb-4f04-8d06-b3d06f5343ac) 10/20(木) 開場 19:30 ／ 開演 20:00 ／ 終了 21:30頃
 - [E869120. 150 分で学ぶ高校数学の基礎](https://speakerdeck.com/e869120/150-fen-dexue-bugao-xiao-shu-xue-noji-chu)
 
-### 予定
+### 内容
 - Clusterアップデート
 - Unityグループ よけとる2022作成 03ゲームの実装　キャラクターの実装方法から / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
 - GDevelop ロープアクションの検討
