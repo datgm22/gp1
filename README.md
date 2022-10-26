@@ -39,6 +39,7 @@
 ### 予定
 - Clusterアップデート
 - Clusterに自分のワールドをアップロードする
+- 作業リストや開発中のプロジェクトをGoogle Meetで共有
 - Unity / GDevelop 作業の確認と質疑応答
 - GDevelop [ロープアクションの検討](https://docs.google.com/presentation/d/14V3H_oQP52LHFYKaPSgAlNZr6tTEEeifsV6Nn-r1ndE/)
 
