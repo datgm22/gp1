@@ -38,18 +38,9 @@
 
 ### 予定
 - Clusterアップデート
-- Unityグループ よけとる2022作成 03ゲームの実装　 / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+- Clusterに自分のワールドをアップロードする
+- Unity / GDevelop 作業の確認と質疑応答
 - GDevelop [ロープアクションの検討](https://docs.google.com/presentation/d/14V3H_oQP52LHFYKaPSgAlNZr6tTEEeifsV6Nn-r1ndE/)
-
-### Unity版よけとる作成資料
-- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
-- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
-- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
-- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
-- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
-- [補足](https://docs.google.com/document/d/1eHzEidSWvceXCaB5KsXkkbKrAFykcImPOkrVJacBPFg/)
-
 
 
 ## 後期3回目(10/20)
