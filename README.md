@@ -45,12 +45,27 @@
 - Unity / GDevelop 作業の確認と質疑応答
 - GDevelop [ロープアクションの検討](https://docs.google.com/presentation/d/14V3H_oQP52LHFYKaPSgAlNZr6tTEEeifsV6Nn-r1ndE/)
 
+### 展示物について
+11/2より後は自主製作になる。以下のいずれかのうち、自力で展示できるものを選んで準備する。
+
+- オリジナルのUnity作品
+- よけとるUnityの改造版
+- よけとるUnityのアセット差し替え版
+- GDevelopアプリ
+- ClusterのCCKによるワールド、あるいは、ワールドクラフト
+- Visual Studioで作成した夏休み課題
+
+完成が難しい場合、開発中のものをUnityエディターやGDevelop上で展示してもよい。その際は、インストカードの代わりにどのような作品を作ろうとしたのかの説明と、今後の開発予定を記載する。
+
 
 ### ゲームのインストラクションカードの作成
 - [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
   - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
 - A4カラー 1ページ
-- ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバー、使用アセットを書く
+- ゲームの場合
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバー、使用アセット
+- Clusterの場合
+  - ワールド名、ワールドの概要、操作説明、開発メンバー、使用アセット
 
 ## 後期3回目(10/20)
 
