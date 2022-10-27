@@ -42,6 +42,7 @@
   - Player.csの移動で`transform.position = wp;`をコメントアウトしていなかったのが原因。座標を直に変更することでワープさせた上に速度が0になるため、物理シミュレーションが動かず、衝突が検出されなかった
 - [Clusterに自分のワールドをアップロードする](https://github.com/datgm22/design/blob/main/submit_cluster.md)
 - 作業リストや開発中のプロジェクトをGoogle Meetで共有
+  - [相談メモ](https://docs.google.com/document/d/1HyYcXgPo60FbkbAfdcgJUvjsDIRfft6dx6QiN2PZG7g/)
 - Unity / GDevelop 作業の確認と質疑応答
 - GDevelop [ロープアクションの検討](https://docs.google.com/presentation/d/14V3H_oQP52LHFYKaPSgAlNZr6tTEEeifsV6Nn-r1ndE/)
 
