@@ -13,6 +13,7 @@
 
 ## 参考URL
 - [Unity Learning Materials](https://learning.unity3d.jp/)
+- [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
 - [Unityのインストール](https://am1.jp/tutorials/unity/install/)
   - 現在の学校のはUnity2021.3.4f1なので読み替える
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
@@ -34,9 +35,15 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 後期5回目(
+
+### 話題
+- [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
+
+
 ## 後期4回目(10/27)
 
-### 予定
+### 内容
 - Clusterアップデート
 - プレイヤーすり抜けバグ
   - Player.csの移動で`transform.position = wp;`をコメントアウトしていなかったのが原因。座標を直に変更することでワープさせた上に速度が0になるため、物理シミュレーションが動かず、衝突が検出されなかった
