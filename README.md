@@ -35,7 +35,7 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
-## 後期5回目(
+## 後期5回目(11/17)
 
 ### 話題
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
