@@ -40,6 +40,7 @@
 ### 話題
 - [Unityブログ. ゲームプログラミングパターンでコードをレベルアップさせよう](https://blog.unity.com/ja/games/level-up-your-code-with-game-programming-patterns)
 - [GitHub Codespaces](https://docs.github.com/ja/codespaces)
+- [来週水曜日 池袋もくもく会](https://weekend-unity.connpass.com/event/266346/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=detail_btn)
 
 ### 予定
 - [Unityの命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
