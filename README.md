@@ -44,7 +44,7 @@
 
 ### 予定
 - [Unityの命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
-- [提出プロジェクトのレビュー](https://docs.google.com/document/d/1Lwr0O9oDxab077RMwGcN5YuQhHEM7TmXT4yzF302ffc/)
+- [提出プロジェクトのレビュー](https://docs.google.com/document/d/1Du3joA3BLveSy567g-Zg2n_2EPe5KVJNTjBByxGuqpo/)
 
 
 ## 後期4回目(10/27)
