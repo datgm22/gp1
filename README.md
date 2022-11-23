@@ -35,6 +35,13 @@
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 
+## 後期6回目(11/24)
+
+### 予定
+- [Unityの命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
+- [提出プロジェクトのレビュー](https://docs.google.com/document/d/1Du3joA3BLveSy567g-Zg2n_2EPe5KVJNTjBByxGuqpo/)つづき
+
+
 ## 後期5回目(11/17)
 
 ### 話題
@@ -42,7 +49,7 @@
 - [GitHub Codespaces](https://docs.github.com/ja/codespaces)
 - [来週水曜日 池袋もくもく会](https://weekend-unity.connpass.com/event/266346/?utm_campaign=event_publish_to_series_watcher&utm_source=notifications&utm_medium=email&utm_content=detail_btn)
 
-### 予定
+### 内容
 - [Unityの命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 - [提出プロジェクトのレビュー](https://docs.google.com/document/d/1Du3joA3BLveSy567g-Zg2n_2EPe5KVJNTjBByxGuqpo/)
 
