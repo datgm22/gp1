@@ -34,6 +34,7 @@
   - [内藤時浩. ゲーム制作のプロジェクト管理](https://codeknowledge.livedoor.blog/archives/13027501.html)
   - [内藤時浩. ゲーム制作の工数最適化](https://codeknowledge.livedoor.blog/archives/13048099.html)
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
+- [Mind Render. 命令ブロックでプログラミングを学ぶ学習アプリ](https://mindrender.jp/)
 
 ## 後期6回目(11/24)
 
