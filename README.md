@@ -38,6 +38,7 @@
 ## 後期6回目(11/24)
 
 ### 予定
+- [プログラムは流れと命令とデータでできている](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
 - ティラノスクリプト、GDevelopのロープアクション、ブロック崩し、RINGO SYOKUNINについて考察
   - [提出プロジェクトのレビュー](https://docs.google.com/document/d/1Du3joA3BLveSy567g-Zg2n_2EPe5KVJNTjBByxGuqpo/)
 
