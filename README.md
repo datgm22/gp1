@@ -36,9 +36,16 @@
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 - [Mind Render. 命令ブロックでプログラミングを学ぶ学習アプリ](https://mindrender.jp/)
 
-## 後期6回目(11/24)
+## 後期7回目(12/1)
 
 ### 予定
+- ブロック崩し　30方向の検討から
+  - [ブロック崩し関連](https://docs.google.com/document/d/1RXwtEo1mXIGJhJMneScvrU2FL2IJpiU4xn2Jc4HG-sE/)
+  
+
+## 後期6回目(11/24)
+
+### 内容
 - [プログラムは流れと命令とデータでできている:スクリプトの分析](https://docs.google.com/document/d/13QI8b96L55Lk-1RvmP-RauDmyFJEMjf51npgUKrJGyc/)
 - [ブロック崩し関連](https://docs.google.com/document/d/1RXwtEo1mXIGJhJMneScvrU2FL2IJpiU4xn2Jc4HG-sE/)
 - ティラノスクリプト、GDevelopのロープアクション、ブロック崩し、RINGO SYOKUNINについて考察
