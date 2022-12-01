@@ -43,6 +43,8 @@
   - [ブロック崩し関連](https://docs.google.com/document/d/1RXwtEo1mXIGJhJMneScvrU2FL2IJpiU4xn2Jc4HG-sE/)
   - テスト駆動開発(TDD)
     - [ゆるく使うUnityTest](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
+  - 次回までに、GetLimitedDegree()の完成に挑戦する。講義で作成したプロジェクトがない場合は以下からダウンロード。
+    - https://github.com/datgm22/Houkou
 
 ## 後期6回目(11/24)
 
