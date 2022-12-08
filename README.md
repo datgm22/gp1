@@ -39,7 +39,7 @@
 ## 後期8回目(12/8)
 
 ### 予定
-- ブロック崩し　30方向の答え合わせ。できた人はリポジトリのコラボレーターに教員を加える
+- ブロック崩し　30方向の答え合わせ。できた人は[リポジトリのコラボレーターに教員を加える](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [ブロック崩し関連](https://docs.google.com/document/d/1RXwtEo1mXIGJhJMneScvrU2FL2IJpiU4xn2Jc4HG-sE/)
   - テスト駆動開発(TDD)
     - [ゆるく使うUnityTest](https://am1tanaka.hatenablog.com/entry/yuru-unitytest-2021)
