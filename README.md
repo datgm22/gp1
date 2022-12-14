@@ -36,9 +36,15 @@
 - [内藤時浩. C言語001 基礎講座連載開始](https://codeknowledge.livedoor.blog/archives/17082816.html)  
 - [Mind Render. 命令ブロックでプログラミングを学ぶ学習アプリ](https://mindrender.jp/)
 
-## 後期8回目(12/8)
+## 後期9回目(12/15)
 
 ### 予定
+- 1週間ゲームジャムチャレンジ
+  - 途中経過報告
+
+## 後期8回目(12/8)
+
+### 内容
 - ブロック崩し　30方向の答え合わせ。できた人は[リポジトリのコラボレーターに教員を加える](https://github.com/datgm22/design/blob/main/github-unity.md)。リポジトリのURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
   - [ブロック崩し関連](https://docs.google.com/document/d/1RXwtEo1mXIGJhJMneScvrU2FL2IJpiU4xn2Jc4HG-sE/)
   - テスト駆動開発(TDD)
