@@ -60,6 +60,7 @@
   - 圧縮したプロジェクト名.zipファイルを `Z:\2022\student\gp1\1週間ゲームジャム` に自分の名前のフォルダーを作成してそこにコピー
 - 学生チーム企画案の発表
 - 学生チーム企画の仮選定とチーム作り
+  - [チーム選択シート](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit?usp=sharing)
 - 正月課題の案出し
 
 ### 正月課題(ゲームデザイン実習とゲームプログラミング共通)
