@@ -65,6 +65,7 @@
 - 命名規則の再確認と状態によるカットシーンやプレイヤー操作の制御
   - [Unityの命名規則とエディター設定](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
   - 状態によるカットシーンやプレイヤー操作の制御
+    - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
 
 
 ### 正月課題(ゲームデザイン実習とゲームプログラミング共通)
