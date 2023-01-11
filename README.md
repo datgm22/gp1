@@ -53,6 +53,7 @@
 ## 後期12回目(1/12)
 
 ### 予定
+- [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit?usp=sharing)
 - Re:verser プレイヤーとカメラスクロールの連携を考える
   - オブジェクト指向基礎
   - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
