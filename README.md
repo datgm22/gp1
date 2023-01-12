@@ -64,6 +64,7 @@
     - 右上の共有を押して、リンクを知ってる全員に切り替えて、URLをコピーして、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
     - Re:verserの画面切り替えを制御するために必要なオブジェクトの候補を挙げて、設計のドキュメントのよけとる改のクラス案と同様に、クラス名とクラスの役割を１段目、ざっと思いつく属性を２段目、あれば操作を３段目に記載する    
     - [unityroom. Re:verser](https://unityroom.com/games/reverser)
+    - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
   - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
 
 ## 後期11回目(1/5)
