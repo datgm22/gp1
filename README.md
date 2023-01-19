@@ -58,6 +58,13 @@
   - [unityroom. Re:verser](https://unityroom.com/games/reverser)
   - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
   - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
+- 研究メモや技術ブログのためのブログ開設
+  - 以下から使いやすそうなブログサービスを選んで、アカウントを作成
+    - [Qiita](https://qiita.com/)
+    - [はてなブログ](https://hatenablog.com/)
+    - [note](https://note.com)
+    - [Zenn](https://zenn.dev/)
+    - [WiX](https://ja.wix.com/)
 
 
 ## 後期12回目(1/12)
