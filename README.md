@@ -50,9 +50,17 @@
 - 14 制作演習：パッケージを利用したチーム制作 / 学生チーム企画の進行
 - 15 制作演習：ポリモーフィズムの活用。拡張性がある仕掛けの作り方/ 発表準備
 
-## 後期13回目(1/19)
+## 後期14回目(1/26)
 
 ### 予定
+- カメラの管理
+  - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
+  - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
+- プレイヤーの移動
+
+## 後期13回目(1/19)
+
+### 内容
 - [オブジェクト指向言語入門](https://docs.google.com/document/d/19BucmYXR9dgN8qWQkfgjNrJC3Pz3DQLCzw5vQoQG0AU/edit?usp=sharing)
   - 振り返りとポリモーフィズムから
   - [unityroom. Re:verser](https://unityroom.com/games/reverser)
