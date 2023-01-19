@@ -65,7 +65,7 @@
     - [note](https://note.com)
     - [Zenn](https://zenn.dev/)
     - [WiX](https://ja.wix.com/)
-
+  - ブログを作ったらURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から報告
 
 ## 後期12回目(1/12)
 
