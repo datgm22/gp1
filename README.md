@@ -54,6 +54,7 @@
 
 ### 予定
 - カメラの管理
+  - 仕様作成
   - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
   - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
 - プレイヤーの移動
