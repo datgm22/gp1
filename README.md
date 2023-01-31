@@ -50,14 +50,20 @@
 - 14 制作演習：カメラの制御 / Rigidbodyに頼らないこだわりのキャラクターの動かし方(2) / パッケージを利用したチーム制作 / チーム制作演習：企画の仕様作成。Googleスプレッドシートにまとめ
 - 15 制作演習：拡張性がある仕掛けの作り方 / 発表準備
 
-## 後期14回目(1/26)
+## 後期15回目(2/2)
 
 ### 予定
+- paizaの独習
 - カメラの管理
-  - [仕様作成](https://docs.google.com/spreadsheets/d/1l7LdHlQQyQBC3FHE_Ab5f6QHNf7Mtv2zg1PBpRSYJzw/)
-  - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
   - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
 - プレイヤーの移動
+
+## 後期14回目(1/26)
+
+### 内容
+- [仕様作成](https://docs.google.com/spreadsheets/d/1l7LdHlQQyQBC3FHE_Ab5f6QHNf7Mtv2zg1PBpRSYJzw/)
+- Re:verserアレンジ版の画面レイアウト
+  - [Re:verserアレンジ版](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
 
 ## 後期13回目(1/19)
 
