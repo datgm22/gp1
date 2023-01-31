@@ -50,6 +50,21 @@
   - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
 - プレイヤーの移動
 
+### 休み中の取り組み
+- チーム企画を自分たちで連絡を取り合って進める
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/g4c/tag/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E7%94%B2%E5%AD%90%E5%9C%92-2023/)の動向の確認、応募
+- paizaで独習
+- 研究メモや技術ブログのためのブログ執筆
+  - 以下から使いやすそうなブログサービスを選んで、アカウントを作成
+    - [Qiita](https://qiita.com/)
+    - [はてなブログ](https://hatenablog.com/)
+    - [note](https://note.com)
+    - [Zenn](https://zenn.dev/)
+    - [WiX](https://ja.wix.com/)
+  - ブログを作ったらURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から報告
+
+
+
 ## 後期14回目(1/26)
 
 ### 内容
