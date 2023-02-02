@@ -46,7 +46,7 @@
 
 ### 予定
 - [Re:verserの企画の進捗確認](https://docs.google.com/document/d/1V70aI9GcuhnDAWjWXL7kDxKBXGNtkfmmV6vQ_dVLHz8/)
-- paizaの独習
+- [paizaの独習](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
 - カメラの管理
   - [田中のクラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
 - プレイヤーの移動
